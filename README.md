@@ -18,7 +18,7 @@ This pipeline optimizes electric vehicle charging station (EVCS) placement in Vi
 ### Step 1: Clone or Download the Pipeline
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Usmanjveer/evcs-optimization-pipeline.git
 cd evcs-optimization-pipeline
 Step 2: Create Virtual Environment (Recommended)
 Windows:
