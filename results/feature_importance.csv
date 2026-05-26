@@ -1,0 +1,8 @@
+Feature Name,Relative Weight / Importance
+poi_density,0.9185296950213855
+district_pop_density,0.02800661702248996
+jam_score_norm,0.018862841166284658
+lag_neighborhood_traffic,0.013602626195730333
+lag_neighborhood_leisure,0.011872402217092478
+lag_neighborhood_retail,0.006785934458158438
+working_share,0.0023398839188586086

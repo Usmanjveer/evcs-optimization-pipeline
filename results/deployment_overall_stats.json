@@ -1,0 +1,9 @@
+{
+  "total_stations": 20,
+  "unique_seniunijas": 20,
+  "avg_demand": 0.3533618970813559,
+  "avg_svm": 0.25487141751989517,
+  "avg_traffic": 0.4167680154076919,
+  "min_distance_existing": 374.77186790545073,
+  "total_candidates": 201
+}

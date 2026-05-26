@@ -1,0 +1,42 @@
+============================================================
+GA OPTIMIZATION METRICS
+============================================================
+
+PARAMETERS:
+  Stations Selected: 20
+  Generations: 500
+  Population Size: 500
+  Mutation Rate: 0.25
+
+PERFORMANCE:
+  GA Best Fitness: 0.4570
+  Greedy Baseline: 0.0400
+  Improvement: 0.4170
+
+COVERAGE:
+  Unique Districts: 20 / 21
+    Žirmūnai: 1
+    Senamiestis: 1
+    Karoliniškės: 1
+    Pašilaičiai: 1
+    Žvėrynas: 1
+    Šeškinė: 1
+    Paneriai: 1
+    Fabijoniškės: 1
+    Justiniškės: 1
+    Naujoji Vilnia: 1
+    Pilaitė: 1
+    Vilkpėdė: 1
+    Viršuliškės: 1
+    Naujininkai: 1
+    Grigiškės: 1
+    Lazdynai: 1
+    Šnipiškės: 1
+    Naujamiestis: 1
+    Rasos: 1
+    Antakalnis: 1
+
+AVERAGE METRICS:
+  Traffic Score: 0.4255
+  Demand Score: 0.4080
+  SVM Probability: 0.2557

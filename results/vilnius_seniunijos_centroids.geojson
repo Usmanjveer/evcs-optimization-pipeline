@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25301290822362,
+          54.61394962784193
+        ]
+      },
+      "properties": {
+        "seniunija": "Naujininkai",
+        "object_id": 422,
+        "nr": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1366918114256,
+          54.61214892719927
+        ]
+      },
+      "properties": {
+        "seniunija": "Paneriai",
+        "object_id": 423,
+        "nr": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.20202616231629,
+          54.673549091209374
+        ]
+      },
+      "properties": {
+        "seniunija": "Lazdynai",
+        "object_id": 424,
+        "nr": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.094162395391496,
+          54.67211489222637
+        ]
+      },
+      "properties": {
+        "seniunija": "Grigiškės",
+        "object_id": 425,
+        "nr": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.220911502545285,
+          54.65851228595132
+        ]
+      },
+      "properties": {
+        "seniunija": "Vilkpėdė",
+        "object_id": 426,
+        "nr": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2945429746925,
+          54.68314456357192
+        ]
+      },
+      "properties": {
+        "seniunija": "Senamiestis",
+        "object_id": 427,
+        "nr": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.26759662117192,
+          54.679854561391174
+        ]
+      },
+      "properties": {
+        "seniunija": "Naujamiestis",
+        "object_id": 428,
+        "nr": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.32092164768263,
+          54.64978639275123
+        ]
+      },
+      "properties": {
+        "seniunija": "Rasos",
+        "object_id": 429,
+        "nr": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.21961209267159,
+          54.69003632832248
+        ]
+      },
+      "properties": {
+        "seniunija": "Karoliniškės",
+        "object_id": 430,
+        "nr": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.250098853347684,
+          54.697937811272276
+        ]
+      },
+      "properties": {
+        "seniunija": "Žvėrynas",
+        "object_id": 431,
+        "nr": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27911373796983,
+          54.70524964029977
+        ]
+      },
+      "properties": {
+        "seniunija": "Šnipiškės",
+        "object_id": 432,
+        "nr": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.22471663391078,
+          54.70944086421192
+        ]
+      },
+      "properties": {
+        "seniunija": "Viršuliškės",
+        "object_id": 433,
+        "nr": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.408945782624144,
+          54.68479017440163
+        ]
+      },
+      "properties": {
+        "seniunija": "Naujoji Vilnia",
+        "object_id": 434,
+        "nr": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25183658454344,
+          54.70987831235237
+        ]
+      },
+      "properties": {
+        "seniunija": "Šeškinė",
+        "object_id": 435,
+        "nr": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.208089738713007,
+          54.71764603225565
+        ]
+      },
+      "properties": {
+        "seniunija": "Justiniškės",
+        "object_id": 436,
+        "nr": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.154118352060042,
+          54.7077744229274
+        ]
+      },
+      "properties": {
+        "seniunija": "Pilaitė",
+        "object_id": 437,
+        "nr": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.291937729867705,
+          54.711912984724805
+        ]
+      },
+      "properties": {
+        "seniunija": "Žirmūnai",
+        "object_id": 438,
+        "nr": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.236918942051275,
+          54.74481798879129
+        ]
+      },
+      "properties": {
+        "seniunija": "Fabijoniškės",
+        "object_id": 439,
+        "nr": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.196958464907276,
+          54.74260732010815
+        ]
+      },
+      "properties": {
+        "seniunija": "Pašilaičiai",
+        "object_id": 440,
+        "nr": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.38948191275859,
+          54.75333480060417
+        ]
+      },
+      "properties": {
+        "seniunija": "Antakalnis",
+        "object_id": 441,
+        "nr": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29473910896442,
+          54.78506472512785
+        ]
+      },
+      "properties": {
+        "seniunija": "Verkiai",
+        "object_id": 442,
+        "nr": 1
+      }
+    }
+  ]
+}

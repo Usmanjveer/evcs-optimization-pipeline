@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+joblib
+scipy
+pyproj
+folium
+branca
+matplotlib
+requests
+openpyxl
+python-dateutil
+pytz

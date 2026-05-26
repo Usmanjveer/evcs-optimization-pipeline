@@ -1,0 +1,3379 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-18T19:53:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1394475424",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "name": "Stokker Vilnius",
+        "operator": "Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "150",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2343407,
+          54.6621953
+        ]
+      },
+      "id": "way/1394475424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979357302",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:nfc": "yes",
+        "fee": "yes",
+        "name": "IKI PC, Saulėtekis",
+        "opening_hours": "24/7",
+        "operator": "Ignitis ON",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3422753,
+          54.7250395
+        ]
+      },
+      "id": "node/1979357302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355421670",
+        "amenity": "charging_station",
+        "fee": "yes",
+        "name": "Fakto auto",
+        "operator": "Fakto auto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2345584,
+          54.6686506
+        ]
+      },
+      "id": "node/3355421670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355429157",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "UAB \"Arginta\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2759615,
+          54.7837095
+        ]
+      },
+      "id": "node/3355429157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355493943",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "no",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.278184,
+          54.6885086
+        ]
+      },
+      "id": "node/3355493943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355616095",
+        "amenity": "charging_station",
+        "amperage": "16",
+        "fee": "no",
+        "operator": "PPC „Ozas“"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2762449,
+          54.7151796
+        ]
+      },
+      "id": "node/3355616095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355616096",
+        "amenity": "charging_station",
+        "amperage": "16,32",
+        "operator": "UAB „Transmitto“"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.266587,
+          54.654691
+        ]
+      },
+      "id": "node/3355616096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3889092272",
+        "amenity": "charging_station",
+        "opening_hours": "24/7",
+        "operator": "KIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.223347,
+          54.7419045
+        ]
+      },
+      "id": "node/3889092272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4009648287",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2835366,
+          54.6810083
+        ]
+      },
+      "id": "node/4009648287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168758289",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Spark",
+        "operator": "Spark",
+        "socket:type2": "2",
+        "website": "https://spark.lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2504127,
+          54.6821903
+        ]
+      },
+      "id": "node/4168758289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739650121",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2313038,
+          54.7373031
+        ]
+      },
+      "id": "node/4739650121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5025971450",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "Unipark",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2878255,
+          54.6918213
+        ]
+      },
+      "id": "node/5025971450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5031575873",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SPARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2576824,
+          54.6762077
+        ]
+      },
+      "id": "node/5031575873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5137028820",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2598328,
+          54.6697691
+        ]
+      },
+      "id": "node/5137028820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5240629593",
+        "addr:city": "Vilnius",
+        "addr:contact": "yes",
+        "addr:housenumber": "32",
+        "addr:postcode": "07157",
+        "addr:street": "Šeškinės g.",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Spark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2459365,
+          54.7152796
+        ]
+      },
+      "id": "node/5240629593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5240629594",
+        "amenity": "charging_station",
+        "opening_hours": "24/7",
+        "operator": "Spark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3038906,
+          54.7128718
+        ]
+      },
+      "id": "node/5240629594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5486381178",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2759093,
+          54.7406716
+        ]
+      },
+      "id": "node/5486381178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6314743473",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2592179,
+          54.6711245
+        ]
+      },
+      "id": "node/6314743473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6858230036",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://ignitison.lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.22299,
+          54.7032668
+        ]
+      },
+      "id": "node/6858230036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6881432756",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://ignitison.lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2268557,
+          54.7095254
+        ]
+      },
+      "id": "node/6881432756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6898296083",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2139177,
+          54.7022305
+        ]
+      },
+      "id": "node/6898296083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6911604450",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3145453,
+          54.7086056
+        ]
+      },
+      "id": "node/6911604450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6944389835",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2638003,
+          54.6900368
+        ]
+      },
+      "id": "node/6944389835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6944398028",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2855506,
+          54.6739922
+        ]
+      },
+      "id": "node/6944398028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6944401306",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2230818,
+          54.7169842
+        ]
+      },
+      "id": "node/6944401306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7003973493",
+        "addr:city": "Vilnius",
+        "addr:contact": "yes",
+        "addr:housenumber": "1",
+        "addr:street": "Onos Šimaitės g.",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "Ignitis ON",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type1_combo": "1",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2931565,
+          54.6785189
+        ]
+      },
+      "id": "node/7003973493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030047495",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Forum Palace",
+        "operator": "Ignitis",
+        "socket:chademo": "1",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2656434,
+          54.698134
+        ]
+      },
+      "id": "node/7030047495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7084525150",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2933128,
+          54.6850244
+        ]
+      },
+      "id": "node/7084525150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7114363092",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2747479,
+          54.6429758
+        ]
+      },
+      "id": "node/7114363092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7130886338",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2376838,
+          54.6712377
+        ]
+      },
+      "id": "node/7130886338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7157026502",
+        "amenity": "charging_station",
+        "name": "Phoenix Contact"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2666435,
+          54.6761398
+        ]
+      },
+      "id": "node/7157026502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7410347097",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Spark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2740124,
+          54.6728635
+        ]
+      },
+      "id": "node/7410347097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7931268946",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Helios City",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "socket:type3": "3",
+        "website": "https://ignitison.lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2583991,
+          54.67984
+        ]
+      },
+      "id": "node/7931268946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7931308938",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Ignitis",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "socket:type3": "3",
+        "website": "https://ignitison.lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2459285,
+          54.6920912
+        ]
+      },
+      "id": "node/7931308938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8158678514",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2809653,
+          54.7543573
+        ]
+      },
+      "id": "node/8158678514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8158687233",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2802793,
+          54.7515246
+        ]
+      },
+      "id": "node/8158687233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8158687234",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2811745,
+          54.7529259
+        ]
+      },
+      "id": "node/8158687234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8158687244",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2804181,
+          54.7508401
+        ]
+      },
+      "id": "node/8158687244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8186774183",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1114148,
+          54.6228073
+        ]
+      },
+      "id": "node/8186774183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8527992962",
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "brand:wikipedia": "en:ChargePoint",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2101773,
+          54.6692462
+        ]
+      },
+      "id": "node/8527992962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8527994429",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "brand:wikipedia": "en:ChargePoint",
+        "capacity": "3",
+        "fee": "yes",
+        "name": "Ignitis Charging station",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "45",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_cable": "1",
+        "socket:type2_cable:output": "43",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2014401,
+          54.6742361
+        ]
+      },
+      "id": "node/8527994429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8712754677",
+        "amenity": "charging_station",
+        "name": "autoPilDYK",
+        "operator": "autoPilDYK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2081979,
+          54.6774134
+        ]
+      },
+      "id": "node/8712754677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8713052355",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Spark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2235742,
+          54.6741495
+        ]
+      },
+      "id": "node/8713052355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8718328826",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Ignitis ON",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3419164,
+          54.7247567
+        ]
+      },
+      "id": "node/8718328826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8829222628",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "motorcar": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2255726,
+          54.6778762
+        ]
+      },
+      "id": "node/8829222628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9164493563",
+        "amenity": "charging_station",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2757454,
+          54.6895906
+        ]
+      },
+      "id": "node/9164493563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9277957553",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "operator": "Ignitis ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2212002,
+          54.6725349
+        ]
+      },
+      "id": "node/9277957553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9344465472",
+        "access": "yes",
+        "amenity": "charging_station",
+        "fee": "no",
+        "operator": "McDonalds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1750938,
+          54.6680793
+        ]
+      },
+      "id": "node/9344465472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423697544",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Spark",
+        "operator": "Spark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2594532,
+          54.6956166
+        ]
+      },
+      "id": "node/9423697544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423697545",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://ignitison.lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2577634,
+          54.6956794
+        ]
+      },
+      "id": "node/9423697545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9465414117",
+        "addr:city": "Vilnius",
+        "addr:contact": "yes",
+        "addr:housenumber": "3",
+        "addr:street": "Juozo Balčikonio g.",
+        "amenity": "charging_station",
+        "brand": "Spark",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Spark",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2851682,
+          54.7199931
+        ]
+      },
+      "id": "node/9465414117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500954550",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2825081,
+          54.7210034
+        ]
+      },
+      "id": "node/9500954550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9670265317",
+        "amenity": "charging_station",
+        "name": "Spark",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2235257,
+          54.7361085
+        ]
+      },
+      "id": "node/9670265317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9735658218",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "name": "Spark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2770862,
+          54.6783085
+        ]
+      },
+      "id": "node/9735658218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9814719517",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "UniPark",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2766335,
+          54.7168271
+        ]
+      },
+      "id": "node/9814719517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9824761717",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "eParking.fi",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2779065,
+          54.716986
+        ]
+      },
+      "id": "node/9824761717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616418",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2594322,
+          54.6990303
+        ]
+      },
+      "id": "node/9862616418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616419",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "1",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2653015,
+          54.698073
+        ]
+      },
+      "id": "node/9862616419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616420",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2696425,
+          54.6980738
+        ]
+      },
+      "id": "node/9862616420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616421",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "1",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2750988,
+          54.6937985
+        ]
+      },
+      "id": "node/9862616421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616423",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "320 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2856969,
+          54.6785039
+        ]
+      },
+      "id": "node/9862616423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616424",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2986294,
+          54.6810546
+        ]
+      },
+      "id": "node/9862616424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616425",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2592851,
+          54.6862556
+        ]
+      },
+      "id": "node/9862616425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616426",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2689385,
+          54.6822871
+        ]
+      },
+      "id": "node/9862616426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616427",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2840957,
+          54.6762749
+        ]
+      },
+      "id": "node/9862616427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616428",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2597228,
+          54.6707297
+        ]
+      },
+      "id": "node/9862616428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616429",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2480644,
+          54.6732986
+        ]
+      },
+      "id": "node/9862616429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616430",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2470225,
+          54.698466
+        ]
+      },
+      "id": "node/9862616430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616431",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "level": "-1",
+        "name": "Ignitis ON",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:type2": "8",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2890857,
+          54.6935395
+        ]
+      },
+      "id": "node/9862616431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616432",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2865324,
+          54.6991882
+        ]
+      },
+      "id": "node/9862616432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616433",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2999538,
+          54.6976908
+        ]
+      },
+      "id": "node/9862616433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616434",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3085414,
+          54.6990695
+        ]
+      },
+      "id": "node/9862616434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616435",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "6",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:type2": "7",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.222015,
+          54.6725803
+        ]
+      },
+      "id": "node/9862616435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616436",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2156705,
+          54.692091
+        ]
+      },
+      "id": "node/9862616436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616437",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2056415,
+          54.6853409
+        ]
+      },
+      "id": "node/9862616437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616438",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2729082,
+          54.6617167
+        ]
+      },
+      "id": "node/9862616438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616439",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "brand": "Ignitis ON",
+        "capacity:motorcar": "2",
+        "fee": "yes",
+        "operator": "UAB „Ignitis“",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2820176,
+          54.6518776
+        ]
+      },
+      "id": "node/9862616439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616440",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.20017,
+          54.6438962
+        ]
+      },
+      "id": "node/9862616440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616441",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3427966,
+          54.6623362
+        ]
+      },
+      "id": "node/9862616441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616442",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.409646,
+          54.6926412
+        ]
+      },
+      "id": "node/9862616442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616446",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1751989,
+          54.7073029
+        ]
+      },
+      "id": "node/9862616446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616448",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3042567,
+          54.7114427
+        ]
+      },
+      "id": "node/9862616448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616449",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2764362,
+          54.7040474
+        ]
+      },
+      "id": "node/9862616449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616450",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "not:operator:wikidata": "Q583822",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2822046,
+          54.7170083
+        ]
+      },
+      "id": "node/9862616450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616451",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2990353,
+          54.7190517
+        ]
+      },
+      "id": "node/9862616451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616452",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2450921,
+          54.7167898
+        ]
+      },
+      "id": "node/9862616452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616453",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2707189,
+          54.7295051
+        ]
+      },
+      "id": "node/9862616453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616454",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2470032,
+          54.7308373
+        ]
+      },
+      "id": "node/9862616454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616455",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.233539,
+          54.7272964
+        ]
+      },
+      "id": "node/9862616455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616456",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2211493,
+          54.7348195
+        ]
+      },
+      "id": "node/9862616456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616457",
+        "addr:city": "Vilnius",
+        "addr:contact": "yes",
+        "addr:housenumber": "33",
+        "addr:postcode": "10104",
+        "addr:street": "Nemenčinės pl.",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Ignitis ON",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://ignitison.lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3381794,
+          54.7344715
+        ]
+      },
+      "id": "node/9862616457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616458",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "operator:wikidata": "Q583822",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2755854,
+          54.740275
+        ]
+      },
+      "id": "node/9862616458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616459",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.284256,
+          54.7530236
+        ]
+      },
+      "id": "node/9862616459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616460",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2724129,
+          54.7736085
+        ]
+      },
+      "id": "node/9862616460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862616461",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "fee": "yes",
+        "operator": "UAB Ignitis",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3364705,
+          54.7767971
+        ]
+      },
+      "id": "node/9862616461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9997193218",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Elinta Charge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2251329,
+          54.7074824
+        ]
+      },
+      "id": "node/9997193218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068892917",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Spark",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2787106,
+          54.7037001
+        ]
+      },
+      "id": "node/10068892917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10082336652",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Spark",
+        "operator": "Spark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2590818,
+          54.6955755
+        ]
+      },
+      "id": "node/10082336652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10099103917",
+        "addr:city": "Vilnius",
+        "addr:contact": "yes",
+        "addr:housenumber": "12A",
+        "addr:street": "Ozo g.",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2782868,
+          54.7151
+        ]
+      },
+      "id": "node/10099103917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10101506217",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2997531,
+          54.7192758
+        ]
+      },
+      "id": "node/10101506217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10137749417",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "name": "Spark",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.246922,
+          54.7315254
+        ]
+      },
+      "id": "node/10137749417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10603558007",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3196435,
+          54.7239625
+        ]
+      },
+      "id": "node/10603558007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693375936",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.259426,
+          54.6860159
+        ]
+      },
+      "id": "node/10693375936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10924883721",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2211656,
+          54.7359992
+        ]
+      },
+      "id": "node/10924883721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10989857306",
+        "amenity": "charging_station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2647018,
+          54.7102086
+        ]
+      },
+      "id": "node/10989857306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11001894705",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.213699,
+          54.7099818
+        ]
+      },
+      "id": "node/11001894705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11037159089",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2576743,
+          54.6785305
+        ]
+      },
+      "id": "node/11037159089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11037159090",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2576812,
+          54.6784472
+        ]
+      },
+      "id": "node/11037159090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11037159091",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2577378,
+          54.6784057
+        ]
+      },
+      "id": "node/11037159091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11097299605",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2652558,
+          54.6465055
+        ]
+      },
+      "id": "node/11097299605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11123814220",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3363478,
+          54.7229414
+        ]
+      },
+      "id": "node/11123814220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11146165945",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "operator": "Vilniaus apšvietimas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1894,
+          54.7095074
+        ]
+      },
+      "id": "node/11146165945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11148444705",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2618629,
+          54.7543484
+        ]
+      },
+      "id": "node/11148444705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11148483005",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2647613,
+          54.7522733
+        ]
+      },
+      "id": "node/11148483005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11155822588",
+        "amenity": "charging_station",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2764883,
+          54.647369
+        ]
+      },
+      "id": "node/11155822588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11163263205",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2315986,
+          54.702797
+        ]
+      },
+      "id": "node/11163263205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11209952257",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Ignitis ON",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Ignitis ON",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "11 kW",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1108735,
+          54.6241652
+        ]
+      },
+      "id": "node/11209952257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11211814843",
+        "amenity": "charging_station",
+        "name": "Spark",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2725515,
+          54.705126
+        ]
+      },
+      "id": "node/11211814843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11223301748",
+        "addr:city": "Vilnius",
+        "addr:contact": "yes",
+        "addr:housenumber": "15",
+        "addr:postcode": "15173",
+        "addr:street": "Nemenčinės pl.",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Lidl",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.lidl.lt/c/e-mobilumas/s10024740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3322834,
+          54.7305955
+        ]
+      },
+      "id": "node/11223301748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11223312538",
+        "amenity": "charging_station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3026409,
+          54.7137581
+        ]
+      },
+      "id": "node/11223312538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11228854665",
+        "amenity": "charging_station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2677132,
+          54.7376171
+        ]
+      },
+      "id": "node/11228854665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11519490569",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "Transporto Kompetencijų agentūra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29202,
+          54.701311
+        ]
+      },
+      "id": "node/11519490569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11659605470",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Spark",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2703395,
+          54.7288476
+        ]
+      },
+      "id": "node/11659605470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11673339313",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "charging_station:output": "50 kW",
+        "fee": "yes",
+        "operator": "Elektrum",
+        "payment:app": "yes",
+        "socket:chademo": "1",
+        "socket:type2": "1",
+        "socket:type2_combo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1574532,
+          54.6587942
+        ]
+      },
+      "id": "node/11673339313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11905228841",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "fee": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "name": "Eldrive",
+        "website": "https://eldrive.eu/lt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1879134,
+          54.7095844
+        ]
+      },
+      "id": "node/11905228841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11911876669",
+        "amenity": "charging_station",
+        "opening_hours": "24/7",
+        "operator": "Decathlon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2798581,
+          54.6498466
+        ]
+      },
+      "id": "node/11911876669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11911876769",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2750403,
+          54.6732479
+        ]
+      },
+      "id": "node/11911876769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11913167269",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2792244,
+          54.6754033
+        ]
+      },
+      "id": "node/11913167269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11914039869",
+        "amenity": "charging_station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3039079,
+          54.6526754
+        ]
+      },
+      "id": "node/11914039869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12038002345",
+        "amenity": "charging_station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3280016,
+          54.7257835
+        ]
+      },
+      "id": "node/12038002345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12082957930",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "charging_station:output": "100 kW",
+        "fee": "yes",
+        "operator": "Vilniaus apšvietimas",
+        "payment:app": "yes",
+        "socket:type2_combo": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1561313,
+          54.6585093
+        ]
+      },
+      "id": "node/12082957930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12293997424",
+        "amenity": "charging_station",
+        "socket:type2": "yes",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1014942,
+          54.6470334
+        ]
+      },
+      "id": "node/12293997424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12375060063",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Inbalance Grid",
+        "capacity": "4",
+        "fee": "yes",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2529328,
+          54.6747047
+        ]
+      },
+      "id": "node/12375060063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12426910301",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2258932,
+          54.740047
+        ]
+      },
+      "id": "node/12426910301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12515948872",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "payment:app": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2186087,
+          54.7029761
+        ]
+      },
+      "id": "node/12515948872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12523856274",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "operator": "Inbalance grid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2989177,
+          54.7264243
+        ]
+      },
+      "id": "node/12523856274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12648400301",
+        "addr:city": "Vilnius",
+        "addr:contact": "yes",
+        "addr:housenumber": "1",
+        "addr:street": "Barčių g.",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Lidl Charging Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2606129,
+          54.6048984
+        ]
+      },
+      "id": "node/12648400301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12750031558",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "covered": "no",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2554977,
+          54.6785831
+        ]
+      },
+      "id": "node/12750031558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12752775138",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1539795,
+          54.6585967
+        ]
+      },
+      "id": "node/12752775138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12802565701",
+        "amenity": "charging_station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.274918,
+          54.7788113
+        ]
+      },
+      "id": "node/12802565701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13009533002",
+        "amenity": "charging_station",
+        "name": "Ignitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2821297,
+          54.7531143
+        ]
+      },
+      "id": "node/13009533002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13009708302",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "fee": "yes",
+        "name": "Neste",
+        "opening_hours": "24/7",
+        "operator": "Neste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2290536,
+          54.7153313
+        ]
+      },
+      "id": "node/13009708302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13059067001",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.246596,
+          54.7152042
+        ]
+      },
+      "id": "node/13059067001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13100497551",
+        "amenity": "charging_station",
+        "count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2964788,
+          54.7237694
+        ]
+      },
+      "id": "node/13100497551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13100514020",
+        "amenity": "charging_station",
+        "count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2963905,
+          54.72377
+        ]
+      },
+      "id": "node/13100514020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13108388684",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "operator": "Eldrive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1688328,
+          54.7113517
+        ]
+      },
+      "id": "node/13108388684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13142531201",
+        "amenity": "charging_station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1109274,
+          54.6231644
+        ]
+      },
+      "id": "node/13142531201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13200546411",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2547179,
+          54.7242154
+        ]
+      },
+      "id": "node/13200546411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13200546412",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2547172,
+          54.724189
+        ]
+      },
+      "id": "node/13200546412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13200546413",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2547165,
+          54.7241667
+        ]
+      },
+      "id": "node/13200546413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13248562922",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "charge": "0.29 EUR/kWh",
+        "fee": "yes",
+        "operator": "UAB Vilniaus apšvietimas",
+        "payment:app": "yes",
+        "ref": "29",
+        "socket:type2": "1",
+        "socket:type2:output": "7 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2109221,
+          54.6774743
+        ]
+      },
+      "id": "node/13248562922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13248562923",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "charge": "0.29 EUR/kWh",
+        "fee": "yes",
+        "operator": "UAB Vilniaus apšvietimas",
+        "payment:app": "yes",
+        "ref": "27",
+        "socket:type2": "1",
+        "socket:type2:output": "7 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.211256,
+          54.6775512
+        ]
+      },
+      "id": "node/13248562923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13248562924",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "charge": "0.29 EUR/kWh",
+        "fee": "yes",
+        "operator": "UAB Vilniaus apšvietimas",
+        "payment:app": "yes",
+        "ref": "39",
+        "socket:type2": "1",
+        "socket:type2:output": "7 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2088763,
+          54.6769397
+        ]
+      },
+      "id": "node/13248562924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13248562925",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "charge": "0.29 EUR/kWh",
+        "fee": "yes",
+        "operator": "UAB Vilniaus apšvietimas",
+        "payment:app": "yes",
+        "ref": "391",
+        "socket:type2": "1",
+        "socket:type2:output": "7 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.209171,
+          54.6770175
+        ]
+      },
+      "id": "node/13248562925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13265809218",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "1",
+        "opening_hours": "sunrise-sunset",
+        "operator": "Inbalance grid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2463658,
+          54.7343117
+        ]
+      },
+      "id": "node/13265809218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13285205837",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "4",
+        "operator": "Eldrive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2470011,
+          54.7319305
+        ]
+      },
+      "id": "node/13285205837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13290710213",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "4",
+        "operator": "Eleport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2406712,
+          54.7280341
+        ]
+      },
+      "id": "node/13290710213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13291198502",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2379847,
+          54.7172291
+        ]
+      },
+      "id": "node/13291198502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13291211101",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2372771,
+          54.7182887
+        ]
+      },
+      "id": "node/13291211101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13291610097",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Inbalance grid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2473021,
+          54.7338008
+        ]
+      },
+      "id": "node/13291610097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13296633396",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "operator": "Elinta Charge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2458988,
+          54.7298263
+        ]
+      },
+      "id": "node/13296633396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13306108081",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity:motorcar": "6",
+        "operator": "Ignitis ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2788866,
+          54.6532864
+        ]
+      },
+      "id": "node/13306108081"
+    }
+  ]
+}
